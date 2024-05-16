@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Subha1910/Subha1910/blob/main/GitHub.png.png)
 
 
 <h1 align="center">Hi 👋, I'm Subhajit Mazumdar</h1>
